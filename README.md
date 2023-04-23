@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="background.png" height=150 alt=""/>
+</div>
+
 # SkyAGI: an End to End Application based on Generative Agents
 
 Installation
